@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Bogdan! 👋
 
-<!--
-**bogdandata/bogdandata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 CS50 student | Self-taught developer
+- 📍 Frankfurt am Main, Germany
+- 🔐 Passionate about Cybersecurity
 
-Here are some ideas to get you started:
+## What I'm Learning
+- 🐍 Python — CS50P certified
+- 🌐 Web Security — SQL Injection, XSS (PortSwigger)
+- 💻 CS50x — currently in progress
+- 🔒 Cybersecurity fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🏋️ **Workout Tracker** — Python CLI app for tracking gym sessions
+- 🐍 **Python Practice** — CS50P exercises and problem sets
+
+## Goals
+- 🎯 Complete CS50x
+- 🎯 Learn web development  
+- 🎯 Land first job in Cybersecurity
+
+## Connect With Me
+- GitHub: [@bogdandata](https://github.com/bogdandata)
