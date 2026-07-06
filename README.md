@@ -1,15 +1,15 @@
-# Hi there, I'm Bogdan! 👋
+# Hi there, I'm Bogdan! 
 
 ## About Me
-- 🎓 CS50 student | Self-taught developer
-- 📍 Frankfurt am Main, Germany
-- 🔐 Passionate about Cybersecurity
+-  CS50 student | Self-taught developer
+-  Frankfurt am Main, Germany
+-  Passionate about Cybersecurity
 
 ## What I'm Learning
-- 🐍 Python — CS50P certified
-- 🌐 Web Security — SQL Injection, XSS (PortSwigger)
-- 💻 CS50x — currently in progress
-- 🔒 Cybersecurity fundamentals
+-  Python — CS50P certified
+-  Web Security — SQL Injection, XSS (PortSwigger)
+-  CS50x — currently in progress
+-  Cybersecurity fundamentals
 
 ## Projects
 - 🏋️ **Workout Tracker** — Python CLI app for tracking gym sessions
