@@ -8,8 +8,8 @@ Self-taught and learning every day: computer science fundamentals, Python, web s
 
 | Course | Provider | Status |
 | --- | --- | --- |
-| CS50x: Introduction to Computer Science | Harvard University (edX) | Completed |
 | CS50P: Introduction to Programming with Python | Harvard University (edX) | Completed |
+| CS50x: Introduction to Computer Science | Harvard University (edX) | In progress |
 | CS50 Cybersecurity | Harvard University (edX) | In progress |
 | Web Security Academy: SQL injection, XSS | PortSwigger | In progress |
 
@@ -25,4 +25,4 @@ Self-taught and learning every day: computer science fundamentals, Python, web s
 
 ## Tools
 
-Python · C · SQL · Git & GitHub · Linux · Windows · Burp Suite · VS Code
+Python · Git & GitHub · Linux · Windows · Burp Suite · VS Code
