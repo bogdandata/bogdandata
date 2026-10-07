@@ -1,24 +1,28 @@
-# Hi there, I'm Bogdan! 
+# Bogdan Stanojević
 
-## About Me
--  CS50 student | Self-taught developer
--  Frankfurt am Main, Germany
--  Passionate about Cybersecurity
+**Entry-Level IT Support Specialist** · Cybersecurity learner · Frankenthal, Germany
 
-## What I'm Learning
--  Python — CS50P certified
--  Web Security — SQL Injection, XSS (PortSwigger)
--  CS50x — currently in progress
--  Cybersecurity fundamentals
+Self-taught and learning every day: computer science fundamentals, Python, web security and Linux. I'm looking for my first role in IT support, where I can solve real problems for users and keep growing toward cybersecurity.
+
+## Courses
+
+| Course | Provider | Status |
+| --- | --- | --- |
+| CS50x: Introduction to Computer Science | Harvard University (edX) | Completed |
+| CS50P: Introduction to Programming with Python | Harvard University (edX) | Completed |
+| CS50 Cybersecurity | Harvard University (edX) | In progress |
+| Web Security Academy: SQL injection, XSS | PortSwigger | In progress |
 
 ## Projects
-- 🏋️ **Workout Tracker** — Python CLI app for tracking gym sessions
-- 🐍 **Python Practice** — CS50P exercises and problem sets
 
-## Goals
-- 🎯 Complete CS50x
-- 🎯 Learn web development  
-- 🎯 Land first job in Cybersecurity
+- **Workout Tracker** – a Python command-line app for tracking gym sessions
+- **Python Practice** – my CS50P exercises and problem sets
 
-## Connect With Me
-- GitHub: [@bogdandata](https://github.com/bogdandata)
+## Now
+
+- Learning the Linux command line on OverTheWire Bandit
+- Looking for an entry-level IT support role
+
+## Tools
+
+Python · C · SQL · Git & GitHub · Linux · Windows · Burp Suite · VS Code
