@@ -16,7 +16,6 @@ Self-taught and learning every day: computer science fundamentals, Python, web s
 ## Projects
 
 - **[Workout Tracker](https://github.com/bogdandata/workout-tracker)** – a Python command-line app for tracking gym sessions (CS50P final project)
-- **Python Practice** – my CS50P exercises and problem sets
 
 ## Now
 
