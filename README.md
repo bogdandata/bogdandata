@@ -1,27 +1,25 @@
 # Bogdan Stanojević
 
-**Entry-Level IT Support Specialist** · Cybersecurity learner · Frankenthal, Germany
+**IT Support & Service Desk** · Windows · Linux · Python · Frankenthal, Germany
 
-Self-taught and learning every day: computer science fundamentals, Python, web security and Linux. I'm looking for my first role in IT support, where I can solve real problems for users and keep growing toward cybersecurity.
+**Open to:** entry-level IT support and service desk roles, with a path toward cybersecurity.
 
-## Courses
-
-| Course | Provider | Status |
-| --- | --- | --- |
-| CS50P: Introduction to Programming with Python | Harvard University (edX) | Completed |
-| CS50x: Introduction to Computer Science | Harvard University (edX) | In progress |
-| CS50 Cybersecurity | Harvard University (edX) | In progress |
-| Web Security Academy: SQL injection, XSS | PortSwigger | In progress |
-
-## Projects
-
-- **[Workout Tracker](https://github.com/bogdandata/workout-tracker)** – a Python command-line app for tracking gym sessions (CS50P final project)
-
-## Now
-
-- Learning the Linux command line on OverTheWire Bandit
-- Looking for an entry-level IT support role
+Hands-on practice with Python, the Linux command line and web security, from a completed Harvard course (CS50P), a Python project and ongoing security labs.
 
 ## Tools
 
 Python · Git & GitHub · Linux · Windows · Burp Suite · VS Code
+
+## Projects & labs
+
+- **[Workout Tracker](https://github.com/bogdandata/workout-tracker)** – Python command-line application for tracking gym sessions, built as the final project of CS50P.
+- **Web security labs** – PortSwigger Web Security Academy (ongoing): practical labs on SQL injection and cross-site scripting (XSS).
+- **Linux command line** – OverTheWire Bandit (ongoing): working through the Bandit wargame in a Linux shell.
+
+## Training
+
+| Course | Provider | Status |
+| --- | --- | --- |
+| CS50P: Introduction to Programming with Python | Harvard University (edX) | Completed |
+| CS50x: Introduction to Computer Science | Harvard University (edX) | Ongoing |
+| CS50 Cybersecurity | Harvard University (edX) | Ongoing |
